@@ -2,7 +2,7 @@
 """
 Created on Tue May 28 16:30:21 2024
 
-@author: Risathvik
+@author: Risathvik reddy
 """
 import streamlit as st
 import pickle
